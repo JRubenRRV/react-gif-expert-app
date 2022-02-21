@@ -4,7 +4,7 @@ import { GifGrid } from './components/GifGrid';
 
 export const GifExpertApp = () => {
 
-    const [categories, setCategories] = useState(['lego']);
+    const [categories, setCategories] = useState(['']);
 
     return (
         <>
